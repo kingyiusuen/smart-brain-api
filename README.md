@@ -2,11 +2,11 @@
 
 A web app that locates human faces in a picture.
 
-<img src="screenshot.png">
+<img src="screenshot.png" width="50%">
 
 ## Introduction
 
-This is the back-end part of the app. The code for front-end part is [here](). 
+This is the back-end part of the app. The code for front-end part is [here](https://github.com/kingyiusuen/smart-brain-client). 
 
 The app allows users to input a URL that links to an image and locate the faces that appear in the image with bounding boxes. The API for the face detection algorithm is provided by [Clarifai](https://www.clarifai.com/). 
 
